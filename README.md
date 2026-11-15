@@ -1,5 +1,16 @@
 # US Tenbagger Stock Picker
 
+**English** · [简体中文](README.zh-CN.md)
+
+“Could this become ten times larger?” is the opening question. The interesting part is showing your work.
+
+```mermaid
+flowchart LR
+  A[Candidate company] --> B[Ten-factor research scorecard]
+  B --> C[Per-share compounding thesis]
+  C --> D[Metrics and thesis breakers]
+```
+
 A Codex skill for analyzing possible US tenbagger stocks.
 
 This skill combines two ideas:
